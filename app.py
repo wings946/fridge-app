@@ -2,7 +2,7 @@ import streamlit as st
 
 # 화면 설정
 st.set_page_config(
-    page_title="냉장고 요리 추천",
+    page_title="냉장고를 부탁해",
     page_icon="🍳",
     layout="centered"
 )
