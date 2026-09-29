@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 
 # 화면 설정
@@ -713,4 +712,3 @@ if st.button("요리 추천받기"):
                     )
 
                 st.divider()
-```
